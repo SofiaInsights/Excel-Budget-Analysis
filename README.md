@@ -10,7 +10,6 @@ The goal of this project was to analyze 3 months of transaction data to identify
 - **Analysis:** Built a Pivot Table to sum expenses by category.
 
 ## 3. Data Insights (Storytelling)
-![Budget Chart](excel_budget_proj.png) 
 - **Action Plan:** By cutting Starbucks trips in half, I can save $71.75 monthly, reaching 70% of my savings goal without moving house or changing my lifestyle.
 
 ## 4. Conclusion
